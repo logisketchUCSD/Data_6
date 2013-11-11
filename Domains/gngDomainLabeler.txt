@@ -1,0 +1,4 @@
+HMC Research 08
+Gate and nongate
+Gate 0 Red
+Nongate 1 Blue

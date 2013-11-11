@@ -1,0 +1,13 @@
+Wire=Wire
+Label=Nonwire
+AND=Nonwire
+OR=Nonwire
+NAND=Nonwire
+NOR=Nonwire
+XOR=Nonwire
+NOT=Nonwire
+NOTBUBBLE=Nonwire
+BUBBLE=Nonwire
+LabelBox=Nonwire
+Other=Nonwire
+unlabeled=Nonwire

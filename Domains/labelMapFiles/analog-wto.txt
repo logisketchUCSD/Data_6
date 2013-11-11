@@ -1,0 +1,15 @@
+Wire=Wire
+Resistor=Other
+Transistor=Other
+Capacitor=Other
+Inductor=Other
+Diode=Other
+Ground=Other
+CurrentSource=Other
+VoltageSource=Other
+Other=Other
+ACSource=Other
+DigitalTransistor=Other
+Battery=Other
+Label=Text
+LabelBox=Other

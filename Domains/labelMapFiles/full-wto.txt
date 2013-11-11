@@ -1,0 +1,13 @@
+Wire=Wire
+Label=Text
+AND=Other
+OR=Other
+NAND=Other
+NOR=Other
+XOR=Other
+NOT=Other
+NOTBUBBLE=Other
+BUBBLE=Other
+LabelBox=Other
+Other=Other
+unlabeled=Other

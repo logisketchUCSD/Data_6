@@ -1,0 +1,5 @@
+HMC Research 08
+Text includes just the textual components of labels (no boxes, etc).  Other is everything else.
+Wire 0 Blue
+Text 1 Salmon
+Other 2 Red

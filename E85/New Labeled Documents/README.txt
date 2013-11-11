@@ -1,0 +1,3 @@
+We obtained the data in this folder from Harvey Mudd College students taking E85, Electronics and Computer Architecture. We extracted the sketches from student assignments, class notes, and lab reports done in Microsoft Journal Files. We then converted those individual journals into Xml files using our JntToXml converter.  The format of the resulting Xml file is described in the file “MIT XML Format”. Finally, we labeled those files using our labeler. 
+
+The sub-folder “Labeled 2006” contains labeled Xml files that are labeled in 2006. These files all end with .switched.xml. The sub-folder “Labeled Summer 2007” contains labeled Xml files that are labeled in 2007. These files all end with .labeled.xml. There is no difference in the format of the two types of files.

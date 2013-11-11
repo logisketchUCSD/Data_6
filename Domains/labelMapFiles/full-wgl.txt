@@ -1,0 +1,9 @@
+Wire=Wire
+Label=Label
+AND=Gate
+OR=Gate
+NAND=Gate
+NOR=Gate
+XOR=Gate
+NOT=Gate
+BUBBLE=Gate

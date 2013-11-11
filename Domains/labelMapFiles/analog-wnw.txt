@@ -1,0 +1,15 @@
+Wire=Wire
+Resistor=Nonwire
+Transistor=Nonwire
+Capacitor=Nonwire
+Inductor=Nonwire
+Diode=Nonwire
+Ground=Nonwire
+CurrentSource=Nonwire
+VoltageSource=Nonwire
+Other=Nonwire
+ACSource=Nonwire
+DigitalTransistor=Nonwire
+Battery=Nonwire
+Label=Nonwire
+LabelBox=Nonwire

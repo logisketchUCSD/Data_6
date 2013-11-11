@@ -1,0 +1,6 @@
+Male=Node
+Female=Node
+ChildLink=Link
+Marriage=Link
+Divorce=Link
+Text=Text

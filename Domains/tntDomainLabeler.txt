@@ -1,0 +1,4 @@
+HMC Research 08
+Text and not-text
+Text 0 Red
+Nontext 1 Blue

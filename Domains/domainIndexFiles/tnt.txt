@@ -1,0 +1,4 @@
+Text
+0
+Nontext
+1

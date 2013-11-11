@@ -1,0 +1,6 @@
+Wire
+0
+Text
+1
+Other
+2

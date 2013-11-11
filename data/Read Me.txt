@@ -1,0 +1,5 @@
+File Name		Date Created	Notes
+
+AND.1.labeled		02/19/2007	This is to test the new version of JnTtoXML with coordinates.
+topleft.1.labeled	02/20/2007	Used to find the top left coordinates of the screen
+topright.1.labeled	02/20/2007	Used to find the top right coordinates of the screen

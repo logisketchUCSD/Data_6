@@ -1,0 +1,3 @@
+Wire=Nongate
+Gate=Gate
+Label=Nongate

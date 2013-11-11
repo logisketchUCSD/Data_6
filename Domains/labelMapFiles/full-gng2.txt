@@ -1,0 +1,10 @@
+Wire=Nongate
+Label=Nongate
+AND=Gate
+OR=Gate
+NAND=Gate
+NOR=Gate
+XOR=Gate
+NOT=Gate
+NOTBUBBLE=Gate
+LabelBox=Nongate

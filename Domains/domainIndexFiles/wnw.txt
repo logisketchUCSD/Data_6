@@ -1,0 +1,4 @@
+Wire
+0
+Nonwire
+1

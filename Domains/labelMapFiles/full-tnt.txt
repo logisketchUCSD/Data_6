@@ -1,0 +1,10 @@
+Wire=Nontext
+Label=Text
+AND=Nontext
+OR=Nontext
+NAND=Nontext
+NOR=Nontext
+XOR=Nontext
+NOT=Nontext
+NOTBUBBLE=Nontext
+LabelBox=Nontext
